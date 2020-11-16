@@ -1,0 +1,81 @@
+body {
+    background-image: linear-gradient(to right,#a4dae7, #46bddb, #4b74e2);
+
+}
+
+
+#logo{
+    color: yellow;
+    font-size: 34px;
+}
+.navbar-nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-left: 215px;
+    color: rgb(13, 77, 133);
+    
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.navbar-brand{
+    padding-left: 20px;
+    color:rgb(52, 135, 212); ;
+}
+a {
+    color: rgb(11, 87, 122);
+    font-size: 24px;
+}
+
+#welcome-header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    color: rgb(52, 135, 212);
+}
+#welcome-paragraph {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(52, 135, 212);
+    font-size: 32px;
+}
+.table-centered {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    text-align: center;
+    color: rgba(7, 57, 133, 0.986);
+    
+}
+
+.home-table {
+    width: 50%;
+    margin-left: 290px;
+    margin-top: 40px;
+    text-align: center;
+    color: rgba(7, 57, 133, 0.986);
+    word-spacing: 25px;
+}
+
+/* Weather card*/
+
+.weather-card{
+    width: 900px;
+    height: auto;
+    margin: auto;
+    margin-top: 35x;
+    margin-left:350px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+ }
+
+
+ 
